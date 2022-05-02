@@ -1,0 +1,46 @@
+.navbar
+{
+    background-color:#1CAC78;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 4px, rgba(0, 0, 0, 0.22) 0px 8px 8px;
+}
+#logoImgCenter
+{
+	display:none;
+}
+.nav-link
+{
+	color:white !important;
+    font-size:large;
+}
+.nav-item
+{
+	padding-top:10px;
+}
+#logoImgCenter, #logoImgLeft
+{
+	height:30px;
+	width:30px;
+}
+.content
+{
+	margin-top:80px;
+}
+.active
+{
+	background:#3fd39c;
+}
+.navbar 
+{
+	padding:0px;
+}
+.nav-item:hover
+{
+	background:darkgreen;
+}
+.shadowedBox
+{
+background-color: lavender;
+border: 1px solid;
+padding:10px;
+box-shadow: 5px 10px 18px #888888;
+}

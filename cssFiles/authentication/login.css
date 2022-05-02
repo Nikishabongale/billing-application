@@ -1,0 +1,43 @@
+  .row
+  {
+    border:solid 1px grey;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .carousel-item .img
+  {
+    width:100%;
+    border-radius:25px;
+  }
+  .col-sm-5
+  {
+    border-right:solid 1px grey;
+  }
+  .col-sm-7
+  {
+    padding-right:0px;
+    padding-left:0px;
+    border-right:solid 1px grey;
+  }
+  .carousel-caption
+  {
+    color:#D21F3C;
+  }
+  .caption
+  {
+    background-color:white;
+    font-weight:bold;
+    border:solid 1px skyblue;
+    box-shadow:1px;
+  }
+
+ .btn-info:hover
+ {
+  background-color:#1CAC78;
+  border:solid 1px #1CAC78;
+ }
+.loginBody
+{
+ background-color:#f2f2f2;
+}
+
